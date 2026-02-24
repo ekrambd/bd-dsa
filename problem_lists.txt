@@ -27,6 +27,7 @@
 12. Group Anagrams ⭐⭐⭐⭐⭐ - #49
 
 13. Longest Substring Without Repeating Characters ⭐⭐⭐⭐⭐ - #3
+  - Done
 
 14. String Compression - #443
 
