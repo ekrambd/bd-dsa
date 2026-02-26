@@ -17,6 +17,7 @@
   - Done
 
 8. Rotate Array - #189
+   - Done
 
 9. Valid Anagram ⭐⭐⭐⭐⭐ - #242
 
